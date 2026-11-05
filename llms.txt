@@ -1,0 +1,26 @@
+# Maxorin
+
+> Maxorin is a Dietary Supplement. Maxorin is an over-the-counter dietary supplement in capsule form, formulated for adults who want to support their daily nutritional intake. Each capsule delivers a blend of ingredients designed to complement a balanced diet and active lifestyle, making it a convenient addition to any wellness routine.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://maxorin.onrender.com/)
+- [What Maxorin is](https://maxorin.onrender.com/what-is-product.html)
+- [How Maxorin works](https://maxorin.onrender.com/how-it-works.html)
+- [Maxorin ingredients, explained individually](https://maxorin.onrender.com/ingredients.html)
+- [Maxorin benefits](https://maxorin.onrender.com/benefits.html)
+- [Maxorin customer reviews](https://maxorin.onrender.com/reviews.html)
+- [Maxorin frequently asked questions](https://maxorin.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying Maxorin](https://maxorin.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at Maxorin — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://maxorin.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using Maxorin's own label as a real example of what to look for.
+- [Maxorin: An Honest Review](https://maxorin.onrender.com/blog/maxorin-honest-review.html): An honest look at Maxorin — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Vitamin D3 vs Magnesium: What Each Does In Maxorin](https://maxorin.onrender.com/blog/vitamin-d3-vs-magnesium.html): Vitamin D3 and Magnesium are both in Maxorin but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement Maxorin](https://maxorin.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with Maxorin as part of a dietary routine.
+- [Maxorin FAQ: Dosage, Timing, Who Should Skip It](https://maxorin.onrender.com/blog/maxorin-faq.html): Common questions about Maxorin — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://maxorin.onrender.com/terms.html)
+- [Privacy Policy](https://maxorin.onrender.com/privacy-policy.html)
+- [Disclaimer](https://maxorin.onrender.com/disclaimer.html)
+- [Refund Policy](https://maxorin.onrender.com/refund-policy.html)
+- [About Us](https://maxorin.onrender.com/about.html)
+- [Contact Us](https://maxorin.onrender.com/contact.html)

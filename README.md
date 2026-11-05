@@ -1,2 +1,0 @@
-# maxorin
-Static site
